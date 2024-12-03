@@ -33,4 +33,4 @@ Traduit avec DeepL.com (version gratuite)
 ## 📫 Contact
 thomas.robert@laplateforme.io
 
-[LinkedIn](https://www.linkedin.com/in/james-orozco-922712291/)
+[LinkedIn](www.linkedin.com/in/thomas-robert-943bb1339)
