@@ -8,8 +8,6 @@
 - Je suis actuellement en train d'apprendre Angular et ses bibliothèques en réalisant des projets personnels afin d'acquérir des connaissances et de l'expérience.
 - Je cherche à collaborer sur n'importe quel projet.
 
-Traduit avec DeepL.com (version gratuite)
-
 ## Languages and tools
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
