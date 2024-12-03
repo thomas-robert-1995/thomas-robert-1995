@@ -31,4 +31,4 @@
 ## 📫 Contact
 thomas.robert@laplateforme.io
 
-[LinkedIn](www.linkedin.com/in/thomas-robert-943bb1339/)
+[LinkedIn](https://www.linkedin.com/in/thomas-robert-943bb1339/)
