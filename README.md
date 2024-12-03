@@ -5,7 +5,7 @@
 - Passionné de développement web
 - Je me donne toujours à 100% pour apprendre, m'améliorer et m'épanouir professionnellement et personnellement.
 - Attitude positive !
-- Je suis actuellement en train d'apprendre Angular et ses bibliothèques en réalisant des projets personnels afin d'acquérir des connaissances et de l'expérience.
+- Je suis actuellement en train d'apprendre Html/css et ses bibliothèques en réalisant des projets personnels afin d'acquérir des connaissances et de l'expérience.
 - Je cherche à collaborer sur n'importe quel projet.
 
 ## Languages and tools
